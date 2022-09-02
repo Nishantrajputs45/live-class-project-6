@@ -2,7 +2,7 @@
 
 we have to build webpage as like below Image.
 
-![webpage](./5.png)
+![webpage](./6.png)
 
 ## Techanology used
 
